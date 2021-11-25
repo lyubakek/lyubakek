@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I am Lyubov 👋
+
+Google has everything, except my work experience 👩‍💻
 
 <!--
 **lyubakek/lyubakek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

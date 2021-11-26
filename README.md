@@ -2,7 +2,7 @@
 
 ### Google has everything, except my work experience 👩‍💻
 
-👩‍🎓 I have MSc degree in Computer Science, Faculty of Computer Science and Cybernetics, Department of Applied Statistics, Taras Shevchenko National University of Kyiv
+👩‍🎓 I have a MSc degree in Computer Science, Faculty of Computer Science and Cybernetics, Department of Applied Statistics, Taras Shevchenko National University of Kyiv
 
 
 #### Languages:

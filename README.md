@@ -2,6 +2,10 @@
 
 Google has everything, except my work experience 👩‍💻
 
+Languages
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+
+
 <!--
 **lyubakek/lyubakek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

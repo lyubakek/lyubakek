@@ -12,7 +12,7 @@
 
 ##### You can find me here:
 
-<a href="https://www.linkedin.com/in/liubov-kovalchuk/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/lyubov-kovalchuk/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://join.skype.com/invite/wuJfwdcrnBaL">![Skype](https://img.shields.io/badge/skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)</a>
 <a href="https://t.me/lyubakek">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 </a>

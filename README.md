@@ -19,11 +19,12 @@ During the last year I have been passionate about iOS development. I would like 
 <a href="https://t.me/lyubakek">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 </a>
 
-##### Google has everything, except my work experience 👩‍💻
 
 
 <!--
 **lyubakek/lyubakek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### Google has everything, except my work experience 👩‍💻
+
 
 Here are some ideas to get you started:
 

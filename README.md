@@ -1,8 +1,10 @@
 ## Hi, I am Lyubov 👋
 
-### Google has everything, except my work experience 👩‍💻
 
 👩‍🎓 I have a MSc degree in Computer Science, Faculty of Computer Science and Cybernetics, Department of Applied Statistics, Taras Shevchenko National University of Kyiv
+
+I have over 6 years of experience working with Information Technologies in property tech industry as SEO.
+During the last year I have been passionate about iOS development. I would like to create mobile applications with a useable and intuitive user interface experience. I am striving to learn new technologies and look to ways to better myself in this rapidly changing industry. 
 
 
 #### Languages:
@@ -17,6 +19,7 @@
 <a href="https://t.me/lyubakek">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 </a>
 
+##### Google has everything, except my work experience 👩‍💻
 
 
 <!--
